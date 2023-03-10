@@ -13,50 +13,48 @@
 
 ## 👨‍💻 Tech Stack
 #### 🔍 The most important thing `I can use`
-<a href="#"><img src="https://img.shields.io/static/v1?logo=GOOGLE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOOGLE&color=4285F4&style=flat-square" height="25"></a>
-<img src="https://img.shields.io/static/v1?logo=OPENAI&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=CHATGPT&color=412991&style=flat-square" height="25">
+<a href="https://www.google.com/"><img src="https://img.shields.io/static/v1?logo=GOOGLE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOOGLE&color=4285F4&style=flat-square" height="25"></a> <a href="https://chat.openai.com/"><img src="https://img.shields.io/static/v1?logo=OPENAI&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=CHATGPT&color=412991&style=flat-square" height="25"></a>
 
 #### 👌 This is something `I use frequently`
-<img src="https://img.shields.io/static/v1?logo=GO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GO&color=00ADD8&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=JSON&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=JSON&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=GIT&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GIT&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=GITHUB&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GITHUB&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=GOOGLE-CHROME&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=CHROME&color=4285F4&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=HABR&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=HABR&color=65A3BE&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=STACK-OVERFLOW&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=STACK OVERFLOW&color=F58025&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=SPOTIFY&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=SPOTIFY&color=1DB954&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=DISCORD&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DISCORD&color=5865F2&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=WINDOWS-TERMINAL&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TERMINAL&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=WINDOWS-11&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WINDOWS&color=0078D4&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=LENOVO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LENOVO LEGION&color=E2231A&style=flat-square" height="25">
+<a href="https://go.dev/"><img src="https://img.shields.io/static/v1?logo=GO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GO&color=00ADD8&style=flat-square" height="25"></a>
+<a href="https://www.json.org/"><img src="https://img.shields.io/static/v1?logo=JSON&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=JSON&color=313131&style=flat-square" height="25"></a>
+<a href="https://www.jetbrains.com/go/"><img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" height="25"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/static/v1?logo=GIT&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GIT&color=313131&style=flat-square" height="25"></a>
+<a href="https://github.com/whtmst"><img src="https://img.shields.io/static/v1?logo=GITHUB&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GITHUB&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=GOOGLE-CHROME&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=CHROME&color=4285F4&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=HABR&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=HABR&color=65A3BE&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=STACK-OVERFLOW&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=STACK OVERFLOW&color=F58025&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=SPOTIFY&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=SPOTIFY&color=1DB954&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=DISCORD&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DISCORD&color=5865F2&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=WINDOWS-TERMINAL&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TERMINAL&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=WINDOWS-11&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WINDOWS&color=0078D4&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=LENOVO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LENOVO LEGION&color=E2231A&style=flat-square" height="25"></a>
 
 #### 🤏 This is something `I use occasionally`
-<img src="https://img.shields.io/static/v1?logo=ADOBE-PHOTOSHOP&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=PHOTOSHOP&color=31A8FF&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=ADOBE-ILLUSTRATOR&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=ILLUSTRATOR&color=FF9A00&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=ADOBE-AFTER-EFFECTS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=AFTER EFFECTS&color=9999FF&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=DAVINCI-RESOLVE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DAVINCI RESOLVE&color=E38500&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=OBS-STUDIO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=OBS STUDIO&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=TEAMSPEAK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TEAM SPEAK&color=2580C3&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=.ENV&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=.ENV&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=YAML&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=YAML&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=MARKDOWN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=MARKDOWN&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=VISUAL-STUDIO-CODE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=VS CODE&color=007ACC&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=LINUX&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LINUX&color=FCC624&style=flat-square" height="25">
+<a href="#"><img src="https://img.shields.io/static/v1?logo=ADOBE-PHOTOSHOP&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=PHOTOSHOP&color=31A8FF&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=ADOBE-ILLUSTRATOR&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=ILLUSTRATOR&color=FF9A00&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=ADOBE-AFTER-EFFECTS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=AFTER EFFECTS&color=9999FF&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=DAVINCI-RESOLVE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DAVINCI RESOLVE&color=E38500&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=OBS-STUDIO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=OBS STUDIO&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=TEAMSPEAK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TEAM SPEAK&color=2580C3&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=.ENV&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=.ENV&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=YAML&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=YAML&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=MARKDOWN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=MARKDOWN&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=VISUAL-STUDIO-CODE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=VS CODE&color=007ACC&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=LINUX&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LINUX&color=FCC624&style=flat-square" height="25"></a>
 
 #### 🤓 This is something `I'm learning`
-<img src="https://img.shields.io/static/v1?logo=GO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GO&color=00ADD8&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" height="25">
+<a href="#"><img src="https://img.shields.io/static/v1?logo=GO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GO&color=00ADD8&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" height="25"></a>
 
 #### 🤔 This is something `I'm interested`
-<img src="https://img.shields.io/static/v1?logo=RUST&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=RUST&color=313131&style=flat-square" height="25">
-<img src="https://img.shields.io/static/v1?logo=BLENDER&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLENDER&color=F5792A&style=flat-square" height="25">
+<a href="#"><img src="https://img.shields.io/static/v1?logo=RUST&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=RUST&color=313131&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=BLENDER&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLENDER&color=F5792A&style=flat-square" height="25"></a>
 
 #### 🤫 Here `I'm chilling`
-<img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" height="25">
-<a href="https://band.link/whtmst" target="_blank"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" height="25"></a>
-<a href="https://band.link/whtmst" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" height="25"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" height="25"></a>
+<a href="https://band.link/whtmst"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" height="25"></a>
 
 ## 🎯 My Goals
 
