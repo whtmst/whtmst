@@ -12,13 +12,13 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "SECTION NAME - TEST";
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_SHORT_INFO: "True"
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            SECTION_NAME: "SECTION NAME - TEST";
+            SHOW_OS: "True"
+            SHOW_PROJECTS: "True"
+            SHOW_LANGUAGE: "True"
+            SHOW_PROFILE_VIEWS: "True"
+            SHOW_TIMEZONE: "True"
+            SHOW_EDITORS: "True"
+            SHOW_SHORT_INFO: "True"
