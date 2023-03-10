@@ -56,6 +56,7 @@
 #### 🤫 Here `I'm chilling`
 <img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" height="25">
 <a href="https://band.link/whtmst" target="_blank"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" height="25"></a>
+<a href="https://band.link/whtmst" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" height="25"></a>
 
 ## 🎯 My Goals
 
