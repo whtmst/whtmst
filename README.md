@@ -98,7 +98,7 @@
 
 </center></details>
 
-<h2 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="text-decoration: none">⬆️ SCROLL UP</a></h2>
+<h1 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="text-decoration: none">⬆️</a></h1>
 
 
 
