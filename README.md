@@ -98,8 +98,6 @@
 
 </center></details>
 
-<h1 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="text-decoration: none; opacity: 0.25">⬆️</a></h1>
-
-
+<h1 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="text-decoration: none; opacity: 0.25; font-size: 150%">⬆️</a></h1>
 
 
