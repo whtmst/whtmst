@@ -84,11 +84,17 @@
 </p>
 
 ---
-<details><summary><h2> TEST ⤵️⤵️⤵️</h2></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=whtmst&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&stroke=1F6FEA)](https://git.io/streak-stats)
+<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![whtmst's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
+
+</center></details>
 
 
 
