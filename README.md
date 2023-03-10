@@ -91,8 +91,9 @@
 
 [![whtmst's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
+### 💬 Languages:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </center></details>
 

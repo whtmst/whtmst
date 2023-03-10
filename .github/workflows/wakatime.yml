@@ -1,0 +1,25 @@
+name: WakaTime Workflow file
+
+on:
+  schedule:
+    # Runs at 00:00 GMT+4
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: "SECTION NAME - TEST";
+            SHOW_OS: "True"
+            SHOW_PROJECTS: "True"
+            SECTION_NAME: "SECTION NAME - TEST 2";
+          SHOW_LANGUAGE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "True"
