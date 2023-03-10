@@ -69,6 +69,7 @@
 <p align="center">
     <a href="mailto:wht.mst.official@gmail.com"><img src="https://img.shields.io/static/v1?logo=GMAIL&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GMAIL&color=EA4335&style=flat-square" alt="GMAIL" height="25"></a>
     <a href="https://github.com/whtmst"><img src="https://img.shields.io/static/v1?logo=GITHUB&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GITHUB&color=313131&style=flat-square" alt="GITHUB" height="25"></a>
+    <a href="https://wakatime.com/@whtmst"><img src="https://img.shields.io/static/v1?logo=WAKATIME&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WAKATIME&color=29333A&style=flat-square" alt="WAKATIME" height="25"></a>
     <a href="https://www.linkedin.com/in/whtmst/"><img src="https://img.shields.io/static/v1?logo=LINKEDIN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LINKEDIN&color=0A66C2&style=flat-square" alt="LINKEDIN" height="25"></a>
     <a href="https://discord.gg/23Nv2BbHFV"><img src="https://img.shields.io/static/v1?logo=DISCORD&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DISCORD&color=5865F2&style=flat-square" alt="DISCORD" height="25"></a>
     <a href="https://t.me/wht_mst_official"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" alt="TELEGRAM" height="25"></a>
@@ -85,15 +86,15 @@
 
 ---
 
+### 💬 WAKA:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![whtmst's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💬 Languages:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Wht Mst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
 
 </center></details>
 
