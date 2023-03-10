@@ -2,7 +2,7 @@
 
 <h3 align="center">My name is Wht Mst (White Mist) 😶‍🌫️, or officially Mikhail Palagin</h3>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1083469755471626381/VK_Cover.png"></p>
+<p align="center"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1083469755471626381/VK_Cover.png"></a></p>
 
 ## 👨‍💼 About Me
 **😔 Currently, I am `not employed`**<br>
