@@ -2,7 +2,7 @@ name: WakaTime Workflow file
 
 on:
   schedule:
-    # Runs at 00:00 GMT+4
+    # Runs at 00:00 GMT+4 Azerbaijan time
     - cron: '0 20 * * *'
   workflow_dispatch:
 jobs:
