@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "whtmst_waka_info" # flag can be set to any string, and will be the name of the section to replace in the readme
-          LOCALE: "en_US" # en_US, ru_RU, az_Latn more info - https://saimana.com/list-of-country-locale-code/
+          LOCALE: "en" # en, ru, az more info - https://saimana.com/list-of-country-locale-code/
           COMMIT_BY_ME: "False" # flag can be set to True to commit the code using your name and email
           COMMIT_MESSAGE: "Updated by Wht Mst" # flag can be set to message commit, default is "Updated with Dev Metrics"
           COMMIT_USERNAME: "Wht Mst" # flag can be set to username to commit the code, default is "readme-bot"
