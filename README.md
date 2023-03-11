@@ -87,17 +87,13 @@
 
 ---
 
-## 💬 WAKA:
+## 💬 WAKA TESTING:
 
-<!--START_SECTION:waka_test-->
-<!--END_SECTION:waka_test-->
+<!--START_SECTION:whtmst_waka_info-->
+<!--END_SECTION:whtmst_waka_info-->
 
 ---
 <details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=whtmst&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[![Wht Mst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
 
 </center></details>
 
