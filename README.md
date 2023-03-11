@@ -94,7 +94,6 @@
 
 ---
 <details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
-
 </center></details>
 
 <!--SCROLL UP BUTTON-->
