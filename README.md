@@ -2,7 +2,7 @@
 
 <h2 align="center">My name is Wht Mst (White Mist) 😶‍🌫️, or officially Mikhail Palagin</h2>
 
-<p align="center"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1083469755471626381/VK_Cover.png" alt="MAIN BANNER"></a></p>
+<p align="center"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1083469755471626381/VK_Cover.png" alt="MAIN BANNER"></a></p>
 
 ## 👨‍💼 About Me
 **😔 Currently, I am `not employed`**<br>
@@ -103,11 +103,11 @@
 
 <!--SCROLL UP BUTTON-->
 [//]: # (<h1 align="right"><a href="#" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>)
-<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="75"></a></h1>
+<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="65"></a></h1>
 <!--SCROLL UP BUTTON-->
 
 ---
-<h6 align="center">This <a href="https://github.com/whtmst/whtmst">repository</a> and the text/code/files inside it are distributed under the license:<br><br><a href="#"><img src="https://img.shields.io/static/v1?logo=&label=LICENSE&labelColor=131313&logoColor=FFFFFF&logoWidth=0&message=MIT&color=97CA00&style=flat-square" alt="MIT LICENSE" height="20"></a></h6>
+<h6 align="center">This <a href="https://github.com/whtmst/whtmst">repository</a> and the text/code/files inside it are distributed under the license:<br><a href="#"><img src="https://img.shields.io/static/v1?logo=&label=LICENSE&labelColor=131313&logoColor=FFFFFF&logoWidth=0&message=MIT&color=97CA00&style=flat-square" alt="MIT LICENSE" height="20"></a></h6>
 
 ---
 <h1 align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=whtmst&label=PROFILE+VIEWS&style=flat-square&color=4FC3F7" alt="PROFILE VIEWS" style="opacity: 0.25; text-decoration: none" height="20"></a></h1>
