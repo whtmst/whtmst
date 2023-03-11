@@ -87,6 +87,18 @@
 
 ---
 <!--START_SECTION:whtmst_waka_info-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 55 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.80 % 
+YAML                     53 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.20 % 
+
+🔥 Editors: 
+GoLand                   3 hrs 49 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+
 <!--END_SECTION:whtmst_waka_info-->
 
 [//]: # (<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>)
