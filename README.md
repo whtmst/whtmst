@@ -86,15 +86,11 @@
 </p>
 
 ---
-
-## 💬 WAKA TESTING:
-
 <!--START_SECTION:whtmst_waka_info-->
 <!--END_SECTION:whtmst_waka_info-->
 
----
-<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
-</center></details>
+[//]: # (<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>)
+[//]: # (</center></details>)
 
 <!--SCROLL UP BUTTON-->
 [//]: # (<h1 align="right"><a href="#" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>)

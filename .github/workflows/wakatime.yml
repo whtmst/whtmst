@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "whtmst_waka_info" # flag can be set to any string, and will be the name of the section to replace in the readme
-          LOCALE: "en" # en, ru, az more info - https://saimana.com/list-of-country-locale-code/
+          LOCALE: "en" # en, ru, az, uk & etc. | more info - https://saimana.com/list-of-country-locale-code/
           COMMIT_BY_ME: "False" # flag can be set to True to commit the code using your name and email
           COMMIT_MESSAGE: "Updated by Wht Mst" # flag can be set to message commit, default is "Updated with Dev Metrics"
           COMMIT_USERNAME: "Wht Mst" # flag can be set to username to commit the code, default is "readme-bot"
@@ -36,4 +36,4 @@ jobs:
           SHOW_SHORT_INFO: "False" # flag can be set to False to hide the short fun fact info of user
           SHOW_LOC_CHART: "False" # flag can be set to False to hide the Lines of code written in different quarters of different year
           IGNORED_REPOS: "my-first-repo, my-second-repo" # flag can be set to "waka-readme-stats, my-first-repo" (just an example) to ignore some repos you don’t want to be counted
-          SYMBOL_VERSION: "3" # flag can be set symbol for progress bar (default: 1) Example - 1: Done block █ Empty block ░ / 2: Done block ⣿ Empty block ⣀ / 3: Done block ⬛ Empty block ⬜
+          SYMBOL_VERSION: "2" # flag can be set symbol for progress bar (default: 1) Example - 1: Done block █ Empty block ░ / 2: Done block ⣿ Empty block ⣀ / 3: Done block ⬛ Empty block ⬜
