@@ -94,7 +94,7 @@
 
 <!--SCROLL UP BUTTON-->
 [//]: # (<h1 align="right"><a href="#" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>)
-<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="65"></a></h1>
+<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="50"></a></h1>
 <!--SCROLL UP BUTTON-->
 
 ---

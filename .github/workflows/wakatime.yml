@@ -28,9 +28,9 @@ jobs:
           SHOW_COMMIT: "False" # flag can be set to False to hide the commit stats
           SHOW_DAYS_OF_WEEK: "False" # flag can be set to False to hide the commits made on different days of week
           SHOW_LANGUAGE: "True" # flag can be set to False to hide the Coding Language You use
-          SHOW_OS: "True" # flag can be set to False to hide the OS details
+          SHOW_OS: "False" # flag can be set to False to hide the OS details
           SHOW_PROJECTS: "False" # flag can be set to False to hide the Projects worked on
-          SHOW_TIMEZONE: "True" # flag can be set to False to hide the time zone you are in
+          SHOW_TIMEZONE: "False" # flag can be set to False to hide the time zone you are in
           SHOW_EDITORS: "True" # flag can be set to False to hide the list of code-editors used
           SHOW_LANGUAGE_PER_REPO: "False" # flag can be set to False to hide the Number of repository in different language and frameworks
           SHOW_SHORT_INFO: "False" # flag can be set to False to hide the short fun fact info of user
