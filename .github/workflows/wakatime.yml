@@ -1,4 +1,4 @@
-name: WakaTime Workflow file
+name: WakaTime workflow file
 
 on:
   schedule:

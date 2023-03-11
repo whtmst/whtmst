@@ -50,6 +50,7 @@
 <a href="https://www.jetbrains.com/go/"><img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" alt="GOLAND" height="25"></a>
 
 #### 🤔 This is something `I'm interested`
+<a href="#"><img src="https://img.shields.io/static/v1?logo=APACHE-KAFKA&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=APACHE KAFKA&color=313131&style=flat-square" alt="APACHE KAFKA" height="25"></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/static/v1?logo=RUST&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=RUST&color=313131&style=flat-square" alt="RUST" height="25"></a>
 <a href="https://vlang.io/"><img src="https://img.shields.io/static/v1?logo=V&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=V LANG&color=5D87BF&style=flat-square" alt="V LANG" height="25"></a>
 <a href="https://www.blender.org/"><img src="https://img.shields.io/static/v1?logo=BLENDER&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLENDER&color=F5792A&style=flat-square" alt="BLENDER" height="25"></a>
@@ -86,7 +87,7 @@
 
 ---
 
-### 💬 WAKA:
+## 💬 WAKA:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -98,8 +99,15 @@
 
 </center></details>
 
+<!--SCROLL UP BUTTON-->
 <h1 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>
+<!--SCROLL UP BUTTON-->
 
+---
+<h6 align="center">This <a href="https://github.com/whtmst/whtmst">repository</a> and the text/code/files inside it are distributed under the license:<br><a href="#"><img src="https://img.shields.io/static/v1?logo=&label=LICENSE&labelColor=131313&logoColor=FFFFFF&logoWidth=0&message=MIT&color=97CA00&style=flat-square" alt="MIT LICENSE" height="20"></a></h6>
+
+---
+<h1 align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=whtmst&label=PROFILE+VIEWS&style=flat-square&color=4FC3F7" alt="PROFILE VIEWS" style="opacity: 0.25; text-decoration: none" height="30"></a></h1>
 
 
 
