@@ -88,26 +88,29 @@
 ---
 
 ## 💬 WAKA:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka_test-->
+<!--END_SECTION:waka_test-->
+
+---
 <details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=whtmst&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 [![Wht Mst's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whtmst)](https://github.com/anuraghazra/github-readme-stats)
 
 </center></details>
 
 <!--SCROLL UP BUTTON-->
-<h1 align="right"><a href="https://github.com/whtmst#hey-there%EF%B8%8F-glad-to-see-ya" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>
+[//]: # (<h1 align="right"><a href="#" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>)
+<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="75"></a></h1>
 <!--SCROLL UP BUTTON-->
 
 ---
-<h6 align="center">This <a href="https://github.com/whtmst/whtmst">repository</a> and the text/code/files inside it are distributed under the license:<br><a href="#"><img src="https://img.shields.io/static/v1?logo=&label=LICENSE&labelColor=131313&logoColor=FFFFFF&logoWidth=0&message=MIT&color=97CA00&style=flat-square" alt="MIT LICENSE" height="20"></a></h6>
+<h6 align="center">This <a href="https://github.com/whtmst/whtmst">repository</a> and the text/code/files inside it are distributed under the license:<br><br><a href="#"><img src="https://img.shields.io/static/v1?logo=&label=LICENSE&labelColor=131313&logoColor=FFFFFF&logoWidth=0&message=MIT&color=97CA00&style=flat-square" alt="MIT LICENSE" height="20"></a></h6>
 
 ---
-<h1 align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=whtmst&label=PROFILE+VIEWS&style=flat-square&color=4FC3F7" alt="PROFILE VIEWS" style="opacity: 0.25; text-decoration: none" height="30"></a></h1>
+<h1 align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=whtmst&label=PROFILE+VIEWS&style=flat-square&color=4FC3F7" alt="PROFILE VIEWS" style="opacity: 0.25; text-decoration: none" height="20"></a></h1>
 
 
 
