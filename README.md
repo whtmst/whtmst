@@ -42,6 +42,7 @@
 <a href="https://en.wikipedia.org/wiki/Environment_variable"><img src="https://img.shields.io/static/v1?logo=.ENV&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=.ENV&color=313131&style=flat-square" alt=".ENV" height="25"></a>
 <a href="https://yaml.org/"><img src="https://img.shields.io/static/v1?logo=YAML&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=YAML&color=313131&style=flat-square" alt="YAML" height="25"></a>
 <a href="https://www.markdownguide.org/basic-syntax/"><img src="https://img.shields.io/static/v1?logo=MARKDOWN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=MARKDOWN&color=313131&style=flat-square" alt="MARKDOWN" height="25"></a>
+<a href="https://gitlab.com/whtmst"><img src="https://img.shields.io/static/v1?logo=GITLAB&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GITLAB&color=FC6D26&style=flat-square" alt="GITLAB" height="25"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/static/v1?logo=VISUAL-STUDIO-CODE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=VS CODE&color=007ACC&style=flat-square" alt="VS CODE" height="25"></a>
 <a href="https://distrowatch.com/dwres.php?resource=major"><img src="https://img.shields.io/static/v1?logo=LINUX&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LINUX&color=FCC624&style=flat-square" alt="LINUX" height="25"></a>
 
