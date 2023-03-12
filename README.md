@@ -27,7 +27,8 @@
 <a href="https://stackoverflow.com/users/18205751/wht-mst"><img src="https://img.shields.io/static/v1?logo=STACK-OVERFLOW&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=STACK OVERFLOW&color=F58025&style=flat-square" alt="STACK OVERFLOW" height="25"></a>
 <a href="https://open.spotify.com/artist/23j0hFXACCWZWRn1bCWydj"><img src="https://img.shields.io/static/v1?logo=SPOTIFY&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=SPOTIFY&color=1DB954&style=flat-square" alt="SPOTIFY" height="25"></a>
 <a href="https://discord.gg/23Nv2BbHFV"><img src="https://img.shields.io/static/v1?logo=DISCORD&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DISCORD&color=5865F2&style=flat-square" alt="DISCORD" height="25"></a>
-<a href="https://t.me/wht_mst_official"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" alt="TELEGRAM" height="25"></a>
+<a href="https://t.me/wht_mst"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" alt="TELEGRAM" height="25"></a>
+<a href="https://vk.com/whtmst"><img src="https://img.shields.io/static/v1?logo=VK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=VK&color=0077FF&style=flat-square" alt="VK" height="25"></a>
 <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/static/v1?logo=WINDOWS-TERMINAL&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TERMINAL&color=313131&style=flat-square" alt="TERMINAL" height="25"></a>
 <a href="https://www.microsoft.com/en-us/windows/get-windows-11"><img src="https://img.shields.io/static/v1?logo=WINDOWS-11&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WINDOWS&color=0078D4&style=flat-square" alt="WINDOWS 11" height="25"></a>
 <a href="https://www.lenovo.com/us/en/legion/"><img src="https://img.shields.io/static/v1?logo=LENOVO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LENOVO LEGION&color=E2231A&style=flat-square" alt="LENOVO LEGION" height="25"></a>
@@ -38,7 +39,6 @@
 <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/static/v1?logo=ADOBE-AFTER-EFFECTS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=AFTER EFFECTS&color=9999FF&style=flat-square" alt="ADOBE AFTER EFFECTS" height="25"></a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img src="https://img.shields.io/static/v1?logo=DAVINCI-RESOLVE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DAVINCI RESOLVE&color=E38500&style=flat-square" alt="DAVINCI RESOLVE" height="25"></a>
 <a href="https://obsproject.com/"><img src="https://img.shields.io/static/v1?logo=OBS-STUDIO&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=OBS STUDIO&color=313131&style=flat-square" alt="OBS STUDIO" height="25"></a>
-<a href="https://www.teamspeak.com/"><img src="https://img.shields.io/static/v1?logo=TEAMSPEAK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TEAMSPEAK&color=2580C3&style=flat-square" alt="TEAMSPEAK" height="25"></a>
 <a href="https://en.wikipedia.org/wiki/Environment_variable"><img src="https://img.shields.io/static/v1?logo=.ENV&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=.ENV&color=313131&style=flat-square" alt=".ENV" height="25"></a>
 <a href="https://yaml.org/"><img src="https://img.shields.io/static/v1?logo=YAML&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=YAML&color=313131&style=flat-square" alt="YAML" height="25"></a>
 <a href="https://www.markdownguide.org/basic-syntax/"><img src="https://img.shields.io/static/v1?logo=MARKDOWN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=MARKDOWN&color=313131&style=flat-square" alt="MARKDOWN" height="25"></a>
@@ -57,8 +57,9 @@
 <a href="https://www.blender.org/"><img src="https://img.shields.io/static/v1?logo=BLENDER&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLENDER&color=F5792A&style=flat-square" alt="BLENDER" height="25"></a>
 
 #### 🤫 Here `I'm chilling`
-<a href="https://www.ru.playblackdesert.com/"><img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" alt="PEARL ABYSS" height="25"></a>
 <a href="https://band.link/whtmst"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" alt="BITWIG STUDIO" height="25"></a>
+<a href="https://www.ru.playblackdesert.com/"><img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" alt="PEARL ABYSS" height="25"></a>
+<a href="https://www.teamspeak.com/"><img src="https://img.shields.io/static/v1?logo=TEAMSPEAK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TEAMSPEAK&color=2580C3&style=flat-square" alt="TEAMSPEAK" height="25"></a>
 
 ## 🎯 My Goals
 1. [ ] **Learn Go language and the GoLand IDE.**
@@ -74,7 +75,7 @@
     <a href="https://wakatime.com/@whtmst"><img src="https://img.shields.io/static/v1?logo=WAKATIME&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WAKATIME&color=29333A&style=flat-square" alt="WAKATIME" height="25"></a>
     <a href="https://www.linkedin.com/in/whtmst/"><img src="https://img.shields.io/static/v1?logo=LINKEDIN&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=LINKEDIN&color=0A66C2&style=flat-square" alt="LINKEDIN" height="25"></a>
     <a href="https://discord.gg/23Nv2BbHFV"><img src="https://img.shields.io/static/v1?logo=DISCORD&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=DISCORD&color=5865F2&style=flat-square" alt="DISCORD" height="25"></a>
-    <a href="https://t.me/wht_mst_official"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" alt="TELEGRAM" height="25"></a>
+    <a href="https://t.me/wht_mst"><img src="https://img.shields.io/static/v1?logo=TELEGRAM&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TELEGRAM&color=26A5E4&style=flat-square" alt="TELEGRAM" height="25"></a>
     <a href="https://vk.com/whtmst"><img src="https://img.shields.io/static/v1?logo=VK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=VK&color=0077FF&style=flat-square" alt="VK" height="25"></a>
 </p>
 
@@ -88,23 +89,6 @@
 
 ---
 <!--START_SECTION:whtmst_waka_info-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.05 % 
-YAML                     1 hr 30 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.76 % 
-Go                       54 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.24 % 
-Other                    7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 % 
-JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.10 % 
-
-🔥 Editors: 
-GoLand                   6 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.15 % 
-Chrome                   6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.64 % 
-VS Code                  0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 % 
-```
-
-
 <!--END_SECTION:whtmst_waka_info-->
 
 [//]: # (<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>)
