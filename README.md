@@ -51,7 +51,7 @@
 <a href="https://www.jetbrains.com/go/"><img src="https://img.shields.io/static/v1?logo=GOLAND&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=GOLAND&color=313131&style=flat-square" alt="GOLAND" height="25"></a>
 
 #### 🤔 This is something `I'm interested`
-<a href="#"><img src="https://img.shields.io/static/v1?logo=APACHE-KAFKA&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=APACHE KAFKA&color=313131&style=flat-square" alt="APACHE KAFKA" height="25"></a>
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/static/v1?logo=APACHE-KAFKA&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=APACHE KAFKA&color=313131&style=flat-square" alt="APACHE KAFKA" height="25"></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/static/v1?logo=RUST&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=RUST&color=313131&style=flat-square" alt="RUST" height="25"></a>
 <a href="https://vlang.io/"><img src="https://img.shields.io/static/v1?logo=V&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=V LANG&color=5D87BF&style=flat-square" alt="V LANG" height="25"></a>
 <a href="https://www.blender.org/"><img src="https://img.shields.io/static/v1?logo=BLENDER&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLENDER&color=F5792A&style=flat-square" alt="BLENDER" height="25"></a>
@@ -88,23 +88,6 @@
 
 ---
 <!--START_SECTION:whtmst_waka_info-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.05 % 
-YAML                     1 hr 30 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.76 % 
-Go                       54 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.24 % 
-Other                    7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 % 
-JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.10 % 
-
-🔥 Editors: 
-GoLand                   6 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.15 % 
-Chrome                   6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.64 % 
-VS Code                  0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 % 
-```
-
-
 <!--END_SECTION:whtmst_waka_info-->
 
 [//]: # (<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>)
