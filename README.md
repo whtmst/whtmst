@@ -95,10 +95,10 @@
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   2 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
