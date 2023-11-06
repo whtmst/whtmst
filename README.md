@@ -80,8 +80,8 @@
 
 ---
 <p align="center">
-    <a href="https://www.donationalerts.com/r/whtmst"><img src="https://img.shields.io/static/v1?logo=BUY-ME-A-COFFEE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BUY ME A COFFEE&color=FFDD00&style=flat-square" alt="BUY ME A COFFEE" height="25"></a>
-    <a href="https://boosty.to/whtmst"><img src="https://img.shields.io/static/v1?logo=COFFEESCRIPT&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BOOSTY&color=6C71D3&style=flat-square" alt="BOOSTY" height="25"></a>
+    <a href="https://www.donationalerts.com/r/whtmst"><img src="https://img.shields.io/static/v1?logo=BUY-ME-A-COFFEE&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BUY ME A COFFEE&color=f58407&style=flat-square" alt="BUY ME A COFFEE" height="25"></a>
+    <a href="https://boosty.to/whtmst"><img src="https://img.shields.io/static/v1?logo=COFFEESCRIPT&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BOOSTY&color=f0682a&style=flat-square" alt="BOOSTY" height="25"></a>
 </p>
 
 ---
