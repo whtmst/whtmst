@@ -60,8 +60,7 @@
 
 #### 🤫 Here `I'm chilling`
 <a href="https://band.link/whtmst"><img src="https://img.shields.io/static/v1?logo=BITWIG&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BITWIG STUDIO&color=FF5A00&style=flat-square" alt="BITWIG STUDIO" height="25"></a>
-<a href="https://www.ru.playblackdesert.com/"><img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=BLACK DESERT&color=A48350&style=flat-square" alt="PEARL ABYSS" height="25"></a>
-<a href="https://www.teamspeak.com/"><img src="https://img.shields.io/static/v1?logo=TEAMSPEAK&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=TEAMSPEAK&color=2580C3&style=flat-square" alt="TEAMSPEAK" height="25"></a>
+<a href="https://worldofwarcraft.blizzard.com/"><img src="https://img.shields.io/static/v1?logo=PEARL-ABYSS&label=&labelColor=131313&logoColor=FFFFFF&logoWidth=20&message=WORLD OF WARCRAFT&color=A48350&style=flat-square" alt="WORLD OF WARCRAFT" height="25"></a>
 
 ## 🎯 My Goals
 1. [ ] **Learn Go language and the GoLand IDE.**
