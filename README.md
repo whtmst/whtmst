@@ -2,13 +2,13 @@
 
 <h2 align="center">My name is Wht Mst (White Mist) 😶‍🌫️, or officially Mikhail Palagin</h2>
 
-<p align="center"><a href="#"><img src="https://media.discordapp.com/attachments/1079175071173705860/1083469755471626381/VK_Cover.png" alt="MAIN BANNER"></a></p>
+<p align="center"><a href="#"><img src="https://media.discordapp.net/attachments/1079175071173705860/1083469755471626381/VK_Cover.png?ex=68054957&is=6803f7d7&hm=c989f36bc806b86be429dc0f443b55bbac053d0feb3485d0cdef183bb3809a3e&=&format=webp&quality=lossless&width=1174&height=295" alt="MAIN BANNER"></a></p>
 
 ## 👨‍💼 About Me
 **😔 Currently, I am `not employed`**<br>
-**🌱 Currently, I am working on `learning: Go`**<br>
+**🌱 Currently, I am working on `learning: life`**<br>
 **💬 Ask me about `anything`**<br>
-**⚡ Fun fact `I love to explore new things, watch series, documentaries movie, interesting shows on YouTube and playing BDO`**<br>
+**⚡ Fun fact `I love to explore new things, watch series, documentaries movie, interesting shows on YouTube and playing OW2 (sometimes)`**<br>
 **👨 I prefer to use pronouns `he/him`**<br>
 
 ## 👨‍💻 Tech Stack
@@ -104,7 +104,7 @@ No Activity Tracked This Week
 
 <!--SCROLL UP BUTTON-->
 [//]: # (<h1 align="right"><a href="#" style="font-size: 65px; opacity: 0.25; text-decoration: none">⬆️</a></h1>)
-<h1 align="right"><a href="#"><img src="https://cdn.discordapp.com/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="50"></a></h1>
+<h1 align="right"><a href="#"><img src="https://media.discordapp.net/attachments/1079175071173705860/1084037935789256744/up-arrow_win11.png?ex=68056040&is=68040ec0&hm=68a9e5b68ab76a71420639e6dc8f74cffbeec83a943be14b286fa07d577df538&=&format=webp&quality=lossless" alt="SCROLL UP" style="opacity: 0.25; text-decoration: none" height="50"></a></h1>
 <!--SCROLL UP BUTTON-->
 
 ---
