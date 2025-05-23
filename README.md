@@ -85,9 +85,6 @@
 </p>
 
 ---
-<!--START_SECTION:whtmst_waka_info-->
-
-<!--END_SECTION:whtmst_waka_info-->
 
 [//]: # (<details><summary><h5 align="center">🔽 A little bit of different info 🔽</h5></summary><center>)
 [//]: # (</center></details>)
