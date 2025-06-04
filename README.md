@@ -3,8 +3,6 @@
 # 👋 Hello, I'm Mikhail Palagin
 ### *Also known as Wht Mst (White Mist)* 😶‍🌫️
 
-<br>
-
 ```
 🔍 Exploring · 🤖 Learning · 💡 Creating
 ```
@@ -20,8 +18,6 @@
 > **Pronouns:** he/him/his  
 
 I love exploring new technologies, watching documentaries, and occasionally playing Overwatch 2. Always curious about how things work and passionate about continuous learning.
-
-<br>
 
 ## ⚡ Tech Stack
 
@@ -39,8 +35,6 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 **🎯 Future exploration**  
 `Vibe Coding` `Lua` `Blender`
-
-<br>
 
 ## 🎯 Goals
 
@@ -60,8 +54,6 @@ I love exploring new technologies, watching documentaries, and occasionally play
 - [ ] **💡 Enhance problem-solving abilities**
 - [ ] **🌐 Contribute to open-source projects**
 
-<br>
-
 ## 🎮 When I'm Not Coding
 
 ### 🎵 Music & Creative
@@ -75,8 +67,6 @@ I love exploring new technologies, watching documentaries, and occasionally play
 [![Twitch](https://img.shields.io/badge/Twitch-Wht_Mst-9146FF?style=flat-square&logo=twitch)](https://www.twitch.tv/whtmst) [![VK Live](https://img.shields.io/badge/VK_Live-Wht_Mst-4C75A3?style=flat-square)](https://live.vkvideo.ru/whtmst)
 
 **Games**: `Overwatch 2` • `World of Warcraft` • `The Last of Us Series` • `Days Gone`
-
-<br>
 
 ## 💬 Social & Communication
 
@@ -99,8 +89,6 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 </div>
 
-<br>
-
 ## 📬 Contact & Support
 
 <div align="center">
@@ -108,7 +96,7 @@ I love exploring new technologies, watching documentaries, and occasionally play
 ### **💌 Get In Touch**
 [![Email](https://img.shields.io/badge/Email-wht.mst.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wht.mst.official@gmail.com)
 
-### **💝 Support My Work**
+### **💝 Support Me or My Work**
 [![DonationAlerts](https://img.shields.io/badge/DonationAlerts-Support-F96854?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://www.donationalerts.com/r/whtmst)
 [![Boosty](https://img.shields.io/badge/Boosty-Subscribe-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://boosty.to/whtmst)
 
@@ -120,11 +108,7 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 *Feel free to reach out if you want to chat about technology, music, or just say hello!*
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=whtmst&label=Profile%20Views&style=flat-square&color=4FC3F7)
-
-<br>
 
 **This repository is distributed under the [MIT License](LICENSE)**
 
