@@ -21,3 +21,6 @@
 
 # ...even if they are in subdirectories
 !*/
+
+# Ignore files
+README_2.0.md
