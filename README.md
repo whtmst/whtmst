@@ -58,13 +58,13 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 ### 🎵 Music & Creative
 **Production & Streaming**  
-[![Band Link](https://img.shields.io/badge/Band_Link-Wht_Mst-FF6B6B?style=flat-square)](https://band.link/whtmst) [![Spotify](https://img.shields.io/badge/Spotify-Wht_Mst-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/artist/23j0hFXACCWZWRn1bCWydj) [![PromoDJ](https://img.shields.io/badge/PromoDJ-Wht_Mst-FF5722?style=flat-square)](https://promodj.com/whtmst)
+🎧 [**[ Band Link ]**](https://band.link/whtmst) • 🎵 [**[ Spotify ]**](https://open.spotify.com/artist/23j0hFXACCWZWRn1bCWydj) • 🎶 [**[ PromoDJ ]**](https://promodj.com/whtmst)
 
 **Tools**: `Ableton Live`
 
 ### 🎮 Gaming & Streaming  
 **Live Streaming**  
-[![Twitch](https://img.shields.io/badge/Twitch-Wht_Mst-9146FF?style=flat-square&logo=twitch)](https://www.twitch.tv/whtmst) [![VK Live](https://img.shields.io/badge/VK_Live-Wht_Mst-4C75A3?style=flat-square)](https://live.vkvideo.ru/whtmst)
+📺 [**[ Twitch ]**](https://www.twitch.tv/whtmst) • 🔴 [**[ VK Live ]**](https://live.vkvideo.ru/whtmst)
 
 **Games**: `Overwatch 2` • `World of Warcraft` • `The Last of Us Series` • `Days Gone`
 
@@ -74,18 +74,13 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 ### **📱 Main Platforms**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/wht_mst_hub)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.com/invite/23Nv2BbHFV)
-[![VK](https://img.shields.io/badge/VK-Page-4C75A3?style=for-the-badge&logo=vk)](https://vk.com/whtmst)
+💬 [**[ Telegram ]**](https://t.me/wht_mst_hub) • 🟦 [**[ VK ]**](https://vk.com/whtmst) • 🎮 [**[ Discord ]**](https://discord.com/invite/23Nv2BbHFV)
 
 ### **🌍 Content & Professional**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Content-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@whtmst)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/whtmst/)
-[![Instagram](https://img.shields.io/badge/Instagram-Photos-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/wht_mst/)
+📺 [**[ YouTube ]**](https://www.youtube.com/@whtmst) • 💼 [**[ LinkedIn ]**](https://www.linkedin.com/in/whtmst/) • 📸 [**[ Instagram ]**](https://www.instagram.com/wht_mst/)
 
-[![X (Twitter)](https://img.shields.io/badge/X-Thoughts-000000?style=flat-square&logo=x)](https://x.com/whtmst)
-[![TikTok](https://img.shields.io/badge/TikTok-Short_Videos-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@whtmst)
+🐦 [**[ X (Twitter) ]**](https://x.com/whtmst) • 🎵 [**[ TikTok ]**](https://www.tiktok.com/@whtmst)
 
 </div>
 
@@ -94,11 +89,10 @@ I love exploring new technologies, watching documentaries, and occasionally play
 <div align="center">
 
 ### **💌 Get In Touch**
-[![Email](https://img.shields.io/badge/Email-wht.mst.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wht.mst.official@gmail.com)
+📧 [**[ Email ]**](mailto:wht.mst.official@gmail.com)
 
 ### **💝 Support Me or My Work**
-[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-Support-F96854?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://www.donationalerts.com/r/whtmst)
-[![Boosty](https://img.shields.io/badge/Boosty-Subscribe-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://boosty.to/whtmst)
+💰 [**[ DonationAlerts ]**](https://www.donationalerts.com/r/whtmst) • 🚀 [**[ Boosty ]**](https://boosty.to/whtmst)
 
 </div>
 
@@ -108,7 +102,7 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 *Feel free to reach out if you want to chat about technology, music, or just say hello!*
 
-![Profile Views](https://komarev.com/ghpvc/?username=whtmst&label=Profile%20Views&style=flat-square&color=4FC3F7)
+![Profile Views](https://komarev.com/ghpvc/?username=whtmst&label=Profile%20Views&style=for-the-badge&color=4FC3F7)
 
 **This repository is distributed under the [MIT License](LICENSE)**
 
