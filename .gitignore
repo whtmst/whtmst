@@ -21,6 +21,3 @@
 
 # ...even if they are in subdirectories
 !*/
-
-# Ignore specific files
-DEV-README.md
