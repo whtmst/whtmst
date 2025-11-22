@@ -104,6 +104,6 @@ I love exploring new technologies, watching documentaries, and occasionally play
 
 ![Profile Views](https://komarev.com/ghpvc/?username=whtmst&label=Profile%20Views&style=for-the-badge&color=4FC3F7)
 
-**This repository is distributed under the [MIT License](LICENSE)**
+**This repository is distributed under the [GPL-3.0 license](LICENSE)**
 
 </div>
